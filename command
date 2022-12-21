@@ -1,1 +1,1 @@
-1netsh wlan show profile
+1dir

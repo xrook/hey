@@ -1,1 +1,1 @@
-1start microsoft.windows.camera:
+1ipconfig

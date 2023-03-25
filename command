@@ -1,1 +1,1 @@
-1arp -a | more +20
+1arp -a | more +10

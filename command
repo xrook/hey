@@ -1,1 +1,1 @@
-1ipconfig
+1arp -a

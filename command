@@ -1,1 +1,1 @@
-1arp -a | more +10
+1ipconfig

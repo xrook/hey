@@ -12,3 +12,6 @@
 tg only provide 4096 chr so limit by using this commnad
 ```arp -a | more +15```
 +15 Represents first 15 line
+
+## Get Local Status 
+```1netstat -a```
